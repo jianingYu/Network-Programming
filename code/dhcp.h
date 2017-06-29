@@ -1,4 +1,3 @@
-```
 #define DHCP_CHADDR_LEN 16
 #define DHCP_SNAME_LEN  64
 #define DHCP_FILE_LEN   128
@@ -350,4 +349,4 @@ struct dhcp_packet getInf(struct dhcp_packet dhcpInf){
         
         return dhcpInf;
 }
-```
+
