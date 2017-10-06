@@ -2,7 +2,7 @@
 
 ## Instructions
 
-##### 1. Detailed instruction is in DOCS.
+##### 1. Detailed instruction is in DHCP client&server report.docx.
 
 ##### 2. All code is in CODE.
 
